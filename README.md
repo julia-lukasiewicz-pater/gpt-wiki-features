@@ -11,10 +11,8 @@ Check out the notebooks!
 
 | Link | Description |
 |------|-------------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/julia-lukasiewicz-pater/gpt-wiki-features/blob/main/Code/Creating_features_dataset.ipynb) | Creating the dataset |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/julia-lukasiewicz-pater/gpt-wiki-features/blob/main/Code/GPT_wiki_features.ipynb) | Analysis |
-
-
+| <a href="https://colab.research.google.com/github/julia-lukasiewicz-pater/gpt-wiki-features/blob/main/Code/Creating_features_dataset.ipynb" target="_blank" style="border:none; background:none; padding:0;"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Creating the dataset |
+| <a href="https://colab.research.google.com/github/julia-lukasiewicz-pater/gpt-wiki-features/blob/main/Code/GPT_wiki_features.ipynb" target="_blank" style="border:none; background:none; padding:0;"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Analysis |
 
 ## GPT-wiki-intro-features datasets
 
