@@ -45,18 +45,18 @@ and [TextDescriptives](https://hlasse.github.io/TextDescriptives/). The list of 
 | hdd | Hypergeometric Distribution | lexical-diversity |
 | mtld | Measure of lexical textual diversity | lexical-diversity |
 | mattr | Moving average type-token ratio | lexical-diversity |
-| number_of_ADJ | proportion of adjectives per word | nltk |
-| number_of_ADP | proportion of adpositions per word | nltk |
-| number_of_ADV | proportion of adverbs per word | nltk |
-| number_of_CONJ | proportion of conjunctions per word | nltk |
-| number_of_DET | proportion of determiners per word | nltk |
-| number_of_NOUN | proportion of nouns per word | nltk |
-| number_of_NUM | proportion of numerals per word | nltk |
-| number_of_PRT | proportion of particles per word | nltk |
-| number_of_PRON | proportion of pronuns per word | nltk |
-| number_of_VERB | proportion of verbs per word | nltk |
-| number_of_DOT | proportion of punctuation marks per word | nltk |
-| number_of_X | proportion of POS tag 'Other' per word | nltk |
+| number_of_ADJ | proportion of adjectives | nltk |
+| number_of_ADP | proportion of adpositions | nltk |
+| number_of_ADV | proportion of adverbs | nltk |
+| number_of_CONJ | proportion of conjunctions | nltk |
+| number_of_DET | proportion of determiners | nltk |
+| number_of_NOUN | proportion of nouns | nltk |
+| number_of_NUM | proportion of numerals | nltk |
+| number_of_PRT | proportion of particles | nltk |
+| number_of_PRON | proportion of pronuns | nltk |
+| number_of_VERB | proportion of verbs | nltk |
+| number_of_DOT | proportion of punctuation marks | nltk |
+| number_of_X | proportion of POS tag 'Other' | nltk |
 | class | binary class, 0 stands for Wikipedia, 1 stands for ChatGPT | - |
 | spacy_perplexity | text perplexity | TextDescriptives |
 | entropy | text entropy | TextDescriptives |
